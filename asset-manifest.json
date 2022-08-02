@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/project13-trybeWallet/static/css/main.06c3b7d4.chunk.css",
+    "main.js": "/project13-trybeWallet/static/js/main.c8bbc9c5.chunk.js",
+    "main.js.map": "/project13-trybeWallet/static/js/main.c8bbc9c5.chunk.js.map",
+    "runtime-main.js": "/project13-trybeWallet/static/js/runtime-main.b3cc85a4.js",
+    "runtime-main.js.map": "/project13-trybeWallet/static/js/runtime-main.b3cc85a4.js.map",
+    "static/js/2.29b32461.chunk.js": "/project13-trybeWallet/static/js/2.29b32461.chunk.js",
+    "static/js/2.29b32461.chunk.js.map": "/project13-trybeWallet/static/js/2.29b32461.chunk.js.map",
+    "index.html": "/project13-trybeWallet/index.html",
+    "precache-manifest.292db333460efeda360bea5ebff29e84.js": "/project13-trybeWallet/precache-manifest.292db333460efeda360bea5ebff29e84.js",
+    "service-worker.js": "/project13-trybeWallet/service-worker.js",
+    "static/css/main.06c3b7d4.chunk.css.map": "/project13-trybeWallet/static/css/main.06c3b7d4.chunk.css.map",
+    "static/js/2.29b32461.chunk.js.LICENSE.txt": "/project13-trybeWallet/static/js/2.29b32461.chunk.js.LICENSE.txt",
+    "static/js/main.c8bbc9c5.chunk.js.LICENSE.txt": "/project13-trybeWallet/static/js/main.c8bbc9c5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/project13-trybeWallet/static/media/pexels-john-guccione-wwwadvergroupcom-3483098.3de1c272.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3cc85a4.js",
+    "static/js/2.29b32461.chunk.js",
+    "static/css/main.06c3b7d4.chunk.css",
+    "static/js/main.c8bbc9c5.chunk.js"
+  ]
+}
